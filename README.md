@@ -13,7 +13,7 @@
 
 - 📝 I regularly upload some of my non-tech articles on [https://www.clippings.me/genevieve_ikechukwu](https://www.clippings.me/genevieve_ikechukwu)
 
-- 💬 Ask me about **Python, Robotics**
+- 💬 Ask me about **Backend, Python, Robotics**
 
 - 📫 How to reach me **genevieveikechukwum@gmail.com**
 
